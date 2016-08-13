@@ -2,7 +2,8 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/filipelinhares/awesome-fcss.svg?branch=master)](https://travis-ci.org/filipelinhares/awesome-fcss)
 
-## Articles
+## Good reads
+- [Functional CSS protips](https://github.com/chibicode/react-functional-css-protips)
 - [Rationalizing functional css](https://marcelosomers.com/writing/rationalizing-functional-css/)
 - [Challenge CSS best practices](https://www.smashingmagazine.com/2013/10/challenging-css-best-practices-atomic-approach/)
 - [Functional Programming, CSS, and your sanity](http://www.jon.gold/2015/07/functional-css/)
@@ -13,11 +14,11 @@
 
 ## Tools
 - [basscss](http://www.basscss.com/)
-- [Tachyons](http://tachyons.io)
 - [funkcss](https://github.com/filipelinhares/funkcss)
+- [Tachyons](http://tachyons.io)
 
 ## Contribute
-Your contributions and suggestions are :heart: welcome. Ensure to read the [guidelines](https://github.com/filipelinhares/awesome-slack/blob/master/CONTRIBUTING.md) first.
+Your contributions and suggestions are :heart: welcome. Ensure to read the [guidelines](https://github.com/filipelinhares/awesome-fcss/blob/master/CONTRIBUTING.md) first.
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
